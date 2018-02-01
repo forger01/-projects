@@ -1,0 +1,7 @@
+C:\Users\forger\Desktop\КУРС С#\Pluralize\bin\Debug\rubles.txt
+C:\Users\forger\Desktop\КУРС С#\Pluralize\bin\Debug\Pluralize.exe.config
+C:\Users\forger\Desktop\КУРС С#\Pluralize\bin\Debug\Pluralize.exe
+C:\Users\forger\Desktop\КУРС С#\Pluralize\bin\Debug\Pluralize.pdb
+C:\Users\forger\Desktop\КУРС С#\Pluralize\obj\Debug\Pluralize.csprojResolveAssemblyReference.cache
+C:\Users\forger\Desktop\КУРС С#\Pluralize\obj\Debug\Pluralize.exe
+C:\Users\forger\Desktop\КУРС С#\Pluralize\obj\Debug\Pluralize.pdb
